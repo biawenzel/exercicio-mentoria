@@ -1,0 +1,19 @@
+Calcular o rateio do frete:
+
+1) calcular a razão entre o valor de cada item e o valor total da compra:
+
+valorTotal=quantItem*precoUnit
+valorTotal=(1*60)+(2*15)
+valorTotal=90
+
+item1 = 60/90 = 0,66666666666666666666666666666667
+item2 = (2*15)/90 = 0,33333333333333333333333333333333
+
+2) multiplicar a razão de cada item pelo valor do frete:
+valorFrete = 6,90
+
+rateioItem1 = item1*valorFrete = 4,60
+rateioItem2 = item2*valorFrete = 2,30
+
+
+

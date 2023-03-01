@@ -1,0 +1,21 @@
+Entrada:
+
+Preços no período em R$: 15, 14, 12, 15, 17, 19, 21, 18, 15, 13, 10
+
+Saída:
+
+Lucro máximo: R$ 9 (comprando por R$ 12 e vendendo por R$ 21)
+Obs: Não é possível comprar por 10 e vender por 21 por conta da ordem cronológica
+
+//percorrer o array para encontrar o maior e o menor valor
+	for (?)
+
+//o maior valor deve estar depois do menor na ordem
+	if ([i] do maior valor > [i] do menor valor) {
+		lucro = maior valor - menor valor
+	} else {
+		//procurar outros valores
+
+
+
+
